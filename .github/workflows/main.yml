@@ -1,4 +1,4 @@
-ame: Code Checks
+name: Code Checks
 on: push
 jobs:
   test-python-3-10:
